@@ -1,0 +1,20 @@
+{
+  "name": "rpn-cli-calculator",
+  "version": "1.0.0",
+  "description": "RPN calculator for the command line",
+  "keywords": [
+    "calculator",
+    "rpn",
+    "command-line",
+    "terminal",
+    "cli",
+    "reverse",
+    "polish",
+    "notation"
+  ],
+  "main": "./index.js",
+  "author": "",
+  "license": "ISC",
+  "bin": "./index.js",
+  "repository": "github:taras1303/rpn-cli-calculator"
+}
